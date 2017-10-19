@@ -9,3 +9,5 @@
 1. Point one
 2. Point two
 Great
+
+3. Do not need to add the repository URL if you are already in the process
