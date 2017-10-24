@@ -14,3 +14,4 @@
 
 1. New point for Mariza
 2. Pong back from Mariza - Need to remember point 3 mentioned above
+3. Let's do this everyday until next week starts, so it becomes automatic
