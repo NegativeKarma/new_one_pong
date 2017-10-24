@@ -11,3 +11,5 @@
 3. Do not need to add the repository URL if you are already in the process
 
 #That is it seems to work out!
+
+1. New point for Mariza
